@@ -88,6 +88,36 @@ React Frontend Developer | Building Modern & Responsive Web Applications
 ---
 
 # 🚀 Featured Projects 
+# Task Manager MERN Application
+
+A full-stack task management application built using MERN Stack.
+
+## Features
+- User Authentication (JWT)
+- User Registration & Login
+- Create Tasks
+- View Tasks
+- Update Task Status
+- Delete Tasks
+- Protected APIs
+
+## Tech Stack
+
+Frontend:
+- React.js
+- Tailwind CSS
+- Axios
+
+Backend:
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+## Deployment
+Frontend: Vercel
+Backend: Render
+Database: MongoDB Atlas
 ## 📚 School Management Dashboard
 
 A modern and responsive School Management Dashboard built with React.js, featuring complete CRUD operations and an intuitive admin interface.
